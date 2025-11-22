@@ -76,7 +76,7 @@ currency-converter/
 │   ├── components/
 │   │   ├── CurrencyConvert.jsx
 │   │   └── SelectCurrency.jsx
-│   ├── App.js
+│   ├── App.jsx
 │   └── index.css
 ├── package.json
 ├── tailwind.config.js
